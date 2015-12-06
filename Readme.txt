@@ -1,6 +1,5 @@
-Mount&Blade Module System
+Mount&Blade Warband Module System.
 
-For getting documentation and the latest version of the module system check out:
+This is the source code of Twilight of the sun King mod. For warband 1.153 (and up).
 
-www.taleworlds.com/mb_module_system.html
-
+link to our board at taleworlds forum: https://forums.taleworlds.com/index.php/board,331.0.html
